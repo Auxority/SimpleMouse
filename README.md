@@ -45,7 +45,7 @@ end)
 ```
 </details>
 
-## Detecting mouse movement and using the middle mouse button as a toggle
+## Detecting mouse movement using the middle mouse button as a toggle
 https://user-images.githubusercontent.com/35202343/176704924-cfe1f3e2-3e86-4e31-acad-1a66cabfc097.mp4
 
 <details>
