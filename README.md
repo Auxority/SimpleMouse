@@ -164,7 +164,7 @@ If you want to know more about the available properties and functions, they are 
   - **Remove(instance1)** - Removes an instance from the list of instances the mouse ignores.
   - **Clear()** - Clears the list of instances the mouse ignores.
   
-  ## Accessing the mouse methods
+  ## Mouse methods
   Ofcourse the module also supports some methods.
   These methods can be accessed in a regular way.
   But to understand some methods, it might be handy to know what raycasting means, so [here](https://developer.roblox.com/en-us/articles/Raycasting) is some more information on that.
@@ -179,7 +179,7 @@ If you want to know more about the available properties and functions, they are 
   - **GetIgnoreWater()** - Checks if the mouse ignores the water terrain type while casting rays.
   - **SetIgnoreWater(ignoreWater: boolean)** - Changes if the mouse should ignore the water terrain type while casting rays.
   
-  ## Accessing the mouse signals
+  ## Mouse signals
   Mouse signals are interactions a user has with the mouse. These are grouped under the Signals property. And can be accessed like so:
   
   ```lua
