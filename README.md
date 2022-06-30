@@ -214,3 +214,10 @@ If you want to know more about the available properties and functions, they are 
 </details>
 
 If you have any suggestions, questions or feedback. Feel free to let me know.
+
+<div align="center">
+	<a href="https://www.roblox.com/library/10074782841/Simple-Mouse" rel="Download the module">
+		<img src="https://user-images.githubusercontent.com/35202343/176733027-65b2d2b5-92fd-4e8c-9a28-45cd0b00cb91.png" width="100">
+		<p>Download the module!</p>
+	</a>
+</div>
